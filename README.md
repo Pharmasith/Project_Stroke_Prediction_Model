@@ -23,7 +23,7 @@ After cleaning the data and completing preprocessing, I used a Random Forest Cla
 
 Whether or not an individual will have a Stroke
 
-# Data Visual
+# Data Visualization
 
 ![Screenshot 2022-07-28 211716](https://user-images.githubusercontent.com/105382201/183113752-72f507a1-0405-4836-a561-99dc4e27ec61.png)
 
@@ -45,6 +45,9 @@ A barplot that expresses the cohorts of smokers vs non smokers, and whether they
 
 ![Screenshot 2022-08-05 113849](https://user-images.githubusercontent.com/105382201/183113612-4b0419ab-b25e-4492-a4f6-d7217ad8f666.png)
 
+# Future Aspect
+
+In my upcoming versions I would try to remove outliers and then again re- train models to check any decrease in mis-classifications.
 
 # Contact
 For further information For any additional questions, please contact email Ryancroasdale9@gmail.com
