@@ -23,6 +23,8 @@ After cleaning the data and completing preprocessing, I used a Random Forest Cla
 
 Whether or not an individual will have a Stroke
 
+# Data Visual
+
 ![Screenshot 2022-07-28 211716](https://user-images.githubusercontent.com/105382201/183113752-72f507a1-0405-4836-a561-99dc4e27ec61.png)
 
 A pie graph of Age Group Distrubtion of the individuals in the study
