@@ -1,25 +1,25 @@
 # Project_Stroke_Prediction_Model
 
-#Author: Ryan Croasdale
+# Author: Ryan Croasdale
 
-#Project Description:
+# Project Description:
 
 The data scientists at World Health Organization have collected 12 pieces of information from 583 individuals. The aim is to build a predictive model and find out trends among the individuals.
 
-#Context:
+# Context:
 
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
 This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
 
-#Data:
+# Data:
 
 Original source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
-#Methods: 
+# Methods: 
 
 After cleaning the data and completing preprocessing, I used a Random Forest Classifier, KNN Model, Log Reg Model, Decision Tree Classifier, and a Soft Voting Classifier Model and with tuning to evaluate the dataset. I further went onto use PCA with a KNN model, and then Feature Engineering with a Random Forest Classifier to try to improve overall metrics. 
 
-#Results
+# Results
 
 Whether or not an individual is likey to have a Stroke or not.
 
